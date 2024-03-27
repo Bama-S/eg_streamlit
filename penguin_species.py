@@ -1,5 +1,6 @@
 import streamlit as st
 import pickle
+import sklearn
 
 
 def get_culmen_length():
