@@ -4,11 +4,11 @@ import pickle
 
 
 def get_culmen_length():
-    culmen_length = st.text_input("Culmen Length")
+    culmen_length = st.text_input("Culmen Length of Penguin")
     return culmen_length
 
 def get_culmen_depth():
-    culmen_depth = st.text_input("Culmen depth")
+    culmen_depth = st.text_input("Culmen depth of Penguin")
     return culmen_depth
 
 def get_flipper_length():
